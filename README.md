@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Embarking on the journey of detecting fake news through machine learning, this project utilized a dataset from Kaggle containing 20,800 entries. The primary goal was to build a classifier capable of distinguishing between real and fake news articles, denoted as 0 and 1, respectively. The initial steps involved loading the dataset, addressing duplicates, and handling missing values, resulting in a refined dataset of 18,285 rows.
+This project utilized a dataset from Kaggle containing 20,800 entries. The primary goal was to build a classifier capable of distinguishing between real and fake news articles, denoted as 0 and 1, respectively. The initial steps involved loading the dataset, addressing duplicates, and handling missing values, resulting in a refined dataset of 18,285 rows.
 
 ## Text Processing
 
-The crux of the project lies in effective text processing. The 'combined' column, formed by merging 'author' and 'title,' underwent meticulous cleaning. This process included removing punctuation and stopwords, ensuring that the text was prepared for subsequent analysis. The transformation into a matrix of token counts using Scikit-learn's CountVectorizer paved the way for the machine learning model
+The crux of the project lies in effective text processing. The 'combined' column, formed by merging 'author' and 'title,' underwent meticulous cleaning. This process included removing punctuation and stopwords, ensuring that the text was prepared for subsequent analysis. The transformation into a matrix of token counts using Scikit-learn's CountVectorizer paved the way for the machine learning model.
 
 ## Data Splitting
 
