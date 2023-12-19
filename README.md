@@ -22,4 +22,4 @@ A thorough evaluation of the model's accuracy ensued, employing metrics such as 
 
 ## Results and Conclusion
 
-The Multinomial Naive Bayes classifier showcased an impressive accuracy of approximately 94% on the test dataset, underlining its robustness in generalizing to previously unseen data. This project not only delves into the technical intricacies of machine learning but also highlights its tangible application in combating issues such as the proliferation of fake news.
+The Multinomial Naive Bayes classifier showcased an impressive accuracy of approximately 99% of training dataset and 94% on the test dataset, underlining its robustness in generalizing to previously unseen data. This project not only delves into the technical intricacies of machine learning but also highlights its tangible application in combating issues such as the proliferation of fake news.
