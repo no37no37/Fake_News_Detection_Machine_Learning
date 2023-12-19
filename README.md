@@ -6,7 +6,7 @@ Embarking on the journey of detecting fake news through machine learning, this p
 
 ## Text Processing
 
-The crux of the project lies in effective text processing. The 'combined' column, formed by merging 'author' and 'title,' underwent meticulous cleaning. This process included removing punctuation and stopwords, ensuring that the text was prepared for subsequent analysis. The transformation into a matrix of token counts using Scikit-learn's CountVectorizer paved the way for the machine learning model.
+The crux of the project lies in effective text processing. The 'combined' column, formed by merging 'author' and 'title,' underwent meticulous cleaning. This process included removing punctuation and stopwords, ensuring that the text was prepared for subsequent analysis. The transformation into a matrix of token counts using Scikit-learn's CountVectorizer paved the way for the machine learning model
 
 ## Data Splitting
 
